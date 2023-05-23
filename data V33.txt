@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"In the vast realm of urban legends and internet folklore, the concept of the "backrooms" has emerged as a captivating enigma","photo2":"https://iili.io/HgPonrN.webp"},
+  {"desc3":" The backrooms refer to an otherworldly dimension, an unsettling labyrinth of nondescript rooms and hallways that exist outside of our conventional reality","photo3":"https://iili.io/HgPofLv.webp"},
+  {"desc4":" Internet users share tales of their alleged encounters in these mysterious spaces, recounting eerie experiences and supernatural occurrences.","photo4":"https://iili.io/HgPoTpn.png"},
+  {"desc5":" This article delves into the phenomenon of the backrooms, exploring its origins, characteristics, and the various interpretations that have arisen around it.","photo5":"https://iili.io/HgPoIkX.jpg"},
+  {"descd":"The origins of the backrooms can be traced back to the online community known as 4chan, where an anonymous user posted a series of images and descriptions in 2010.","photod":"https://iili.io/HgPoC1p.webp"}
    ]
  
 }
